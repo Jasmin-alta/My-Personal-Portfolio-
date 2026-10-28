@@ -1,25 +1,11 @@
-# Personal Portfolio
+💻 Personal Portfolio | Jasmin Altamirano
 
-React + TypeScript + Vite starter with Tailwind CSS (Vite plugin), Motion for React (`motion/react`), and Lucide React.
+Welcome to my personal portfolio! This website showcases my software development projects, professional experiences, technical skills, and journey as a Computer Information Systems student at Georgia State University.
 
-## Local development
+🌐 Live Website: jasmin-altamirano.vercel.app
 
-```sh
-npm install
-npm run dev
-```
+✨ About the Portfolio
 
-Open the local URL printed by Vite. Edit `src/App.tsx` and `src/index.css`; Vite updates the page as you save.
+I designed this portfolio to create a space where I can share my experiences, highlight the projects I've worked on, and document my growth as I explore opportunities in software engineering and other areas of technology.
 
-## Production check
-
-```sh
-npm run build
-npm run preview
-```
-
-## Existing assets
-
-The original files are preserved at `design-reference.png`, `public/images/microsoft-campus.jpg`, and `public/images/microsoft-event.jpg`. They were all 0 bytes at setup time and need valid image content before use. Public images will be available at `/images/microsoft-campus.jpg` and `/images/microsoft-event.jpg`.
-
-The current page only verifies the starter setup. The portfolio design has not been implemented.
+The website combines a creative, scrapbook-inspired design with a modern, responsive interface.
