@@ -28,6 +28,7 @@ export const projects: Project[] = [
   },
   {
     id: 'pokedex', title: 'Pokédex App', illustration: 'pokedex',
+    githubUrl: 'https://github.com/Jasmin-alta/Pokedex-App',
     description: 'A mobile Pokédex app I built while learning React Native through a hands-on crash course. The app uses PokéAPI to fetch and display Pokémon names, images, and types.',
     technologies: ['React Native', 'Expo', 'TypeScript', 'PokéAPI'],
   },
